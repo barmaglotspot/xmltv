@@ -1,3 +1,9 @@
+xmltv (0.5.63-2ppa2) precise; urgency=low
+
+  * Update maintainer to reflect this is now in a PPA
+
+ -- Alex Tomlins <alex@tomlins.org.uk>  Fri, 07 Jun 2013 13:21:24 +0100
+
 xmltv (0.5.63-2ppa1) precise; urgency=low
 
   * Backported to precise
